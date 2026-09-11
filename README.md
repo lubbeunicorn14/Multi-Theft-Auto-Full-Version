@@ -236,3 +236,6 @@ This repository serves as the official landing page for Multi Theft Auto. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Multi Theft Auto today!**
+
+---
+**Last updated:** 2026-09-11 11:53:28 UTC
